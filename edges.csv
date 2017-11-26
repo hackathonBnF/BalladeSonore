@@ -1,0 +1,20 @@
+from;to;lien;length
+1;2;Date d'enregistrememnt : 1906;180
+1;3;Sujet : musique instrumentale soliste;250
+1;4;Interprete : A.-M. Roger Miclos;200
+1;5;Instrument : piano;300
+1;6;Auteur : Chopin;300
+6;7;Date : 1954;200
+6;8;Auteur : Chopin;180
+6;9;Instrument : piano;200
+6;10;Sujet : musique instrumentale soliste;140
+6;11;Interprete : Livia Rev;230
+4;12;Sujet : musique instrumentale soliste;200
+4;13;Date : 1905;300
+4;14;Interprete : A.-M. Roger Miclos;250
+4;15;Auteur : Mendelssohn;130
+4;16;Instrument : piano;130
+13;17;Date : 1905;140
+13;18;Interprete : Jean Kubelik;150
+13;19;Instrument : violon;120
+13;20;Auteur : Rivadar Nachez ;160
